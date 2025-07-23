@@ -11,5 +11,7 @@ Responsive UI: Clean and responsive layout with intuitive code editor panels.
 
 ## Tech Stack
 HTML
-CSS – for layout and styling
-JavaScript – to handle live rendering, drag & drop, and file download
+
+CSS
+
+JavaScript 
